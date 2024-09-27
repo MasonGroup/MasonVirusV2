@@ -1,9 +1,0 @@
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\bin\Debug\MasonVirus.exe.config
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\bin\Debug\MasonVirus.exe
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\bin\Debug\MasonVirus.pdb
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\obj\Debug\MasonVirus.csproj.AssemblyReference.cache
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\obj\Debug\MasonVirus.Properties.Resources.resources
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\obj\Debug\MasonVirus.csproj.GenerateResource.cache
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\obj\Debug\MasonVirus.csproj.CoreCompileInputs.cache
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\obj\Debug\MasonVirus.exe
-C:\Users\lhwbe\Desktop\MasonVirus\MasonVirus\obj\Debug\MasonVirus.pdb
